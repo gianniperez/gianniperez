@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Gianni 👋
 
-<!--
-**gianniperez/gianniperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Buenos Aires, Argentina 🇦🇷
 
-Here are some ideas to get you started:
+Desarrolladora y técnica en Informática, especializada en React y TypeScript.
+</br>
+Me motiva crear experiencias de usuario tan atractivas como eficientes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contacto
+
+* **LinkedIn:** [/in/giannina-perez](https://www.linkedin.com/in/giannina-perez)
+* **Email:** [gianniperez@gmail.com](mailto:gianniperez@gmail.com)
+
+---
