@@ -4,9 +4,7 @@
 # Hola, soy Gianni 🐭
 ### Software Developer | Buenos Aires, Argentina 🇦🇷
 
-Desarrolladora y técnica en Informática, especializada en <b>React</b> y <b>TypeScript</b>.
-</br>
-Me motiva crear experiencias de usuario tan atractivas como eficientes!
+Desarrolladora y Técnica en Informática, especializada en <b>React</b> y <b>TypeScript</b>.
 
 ### Contacto
 
